@@ -1,0 +1,16 @@
+*.idea
+*.target/target/
+*/target/
+*.log
+.idea/
+.vscode/
+**/target/
+**/node_modules/
+**/dist/
+*.jar
+*.war
+
+# OS / build artifacts
+.DS_Store
+Thumbs.db
+*.class
